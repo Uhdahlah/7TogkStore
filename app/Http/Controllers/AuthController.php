@@ -16,7 +16,7 @@ class AuthController extends Controller
         if(!Auth::check()){
             return view('auth.login');
         }else {
-            return Redirect('/redeem');
+            return Redirect('/');
         }
     }
     public function username()

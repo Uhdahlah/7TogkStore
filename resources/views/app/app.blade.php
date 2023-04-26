@@ -7,12 +7,12 @@
     <title>
         @yield('title')
     </title>
-    <link rel="icon" href="{{secure_asset('assets')}}/img/scenery/image5.jpg" >
-    <link rel="stylesheet" href="{{secure_asset('assets')}}/bootstrap/css/bootstrap.min.css">
+    <link rel="icon" href="../../assets/img/scenery/image5.jpg" >
+    <link rel="stylesheet" href="../../assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i">
-    <link rel="stylesheet" href="{{secure_asset('assets')}}/fonts/simple-line-icons.min.css">
+    <link rel="stylesheet" href="../../assets/fonts/simple-line-icons.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
-    <link rel="stylesheet" href="{{secure_asset('assets')}}/css/smoothproducts.css">
+    <link rel="stylesheet" href="../../assets/css/smoothproducts.css">
 </head>
 
 <body>
