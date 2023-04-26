@@ -217,7 +217,6 @@
                         <div class="card-body clean-pricing-item">
                             <div class="ribbon2"><span>RECOMENDED</span></div>
                             <h3 class="card-title">[ MEMBERSHIP ]</h3>
-                            <p>Untuk Melihat Fitur Lengkapnya Silakan Memasuki Server Lalu Ketik /ranks</p></br>
                             <b>Unlocked: <p>Flying, Create Clans</p></b>
                             <a class="btn btn-sm btn-outline-primary" data-toggle="modal" data-target="#fitur1">FITUR</a></br>
                             <b>Duration: <p>30 Days</p></b>
@@ -237,7 +236,6 @@
                         <div class="heading">
                             <h3><div>[ NEWBIE ]</div></h3>
                         </div>
-                        <p>Untuk Melihat Fitur Lengkapnya Silakan Memasuki Server Lalu Ketik /ranks</p>
                         <div class="features">
                             <h4><span class="feature">Unlocked:&nbsp;</span><span>Flying, Night Vision</h4>
                             <h4><a class="btn btn-sm btn-outline-primary" data-toggle="modal" data-target="#fitur1">Fitur-Rank</a></h4>
@@ -255,7 +253,6 @@
                             <div class="ribbon2"><span>Best Ranks</span></div>
                             <h3>[ VIP ]</h3>
                         </div>
-                        <p>Untuk Melihat Fitur Lengkapnya Silakan Memasuki Server Lalu Ketik /ranks</p>
                         <div class="features">
                             <h4><span class="feature">Unlocked:&nbsp;</span><span>Create Clans, Create Warps</span></h4>
                             <h4><a class="btn btn-sm btn-outline-primary" data-toggle="modal" data-target="#fitur2">Fitur-Rank</a></h4>
@@ -271,7 +268,6 @@
                         <div class="heading">
                             <h3>[ VVIP ]</h3>
                         </div>
-                        <p>Untuk Melihat Fitur Lengkapnya Silakan Memasuki Server Lalu Ketik /ranks</p>
                         <div class="features">
                             <h4><span class="feature">Unlocked:&nbsp;</span><span>Teleport, Repair, SpamChat</span></h4>
                             <h4><a class="btn btn-sm btn-outline-primary" data-toggle="modal" data-target="#fitur3">Fitur-Rank</a></h4>
