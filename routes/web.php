@@ -22,4 +22,3 @@ Route::get('/login', [AuthController::class, 'showLoginForm'])->name('login');
 Route::post('/login', [AuthController::class, 'login']);
 Route::get('/logout', [AuthController::class, 'logout'])->name('logout')->middleware('auth');
 Route::get('/store', function () { return view('page.store'); })->name('store')->middleware('auth');
-Route::resource('orders', OrderController::class)->only(['index', 'show']);
