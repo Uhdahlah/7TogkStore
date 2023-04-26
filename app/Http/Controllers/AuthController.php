@@ -14,7 +14,7 @@ class AuthController extends Controller
 {
     public function showLoginForm(){
         if(!Auth::check()){
-            return view('auth.login');
+            return view('auth.auth');
         }else {
             return Redirect('/');
         }
@@ -31,7 +31,7 @@ class AuthController extends Controller
             return redirect()->back()->withErrors(['alert' => 'gamertag tidak ada, silahkan login ke server dulu lalu ulangi']);
         } else 
         { Auth::login($user);
-        return redirect('/redeem'); }
+        return redirect('/'); }
     }
     public function logout()
     {
