@@ -8,13 +8,18 @@
         <section class="clean-block clean-form dark">
             <div class="container">
                 <div class="block-heading">
-                    <h2 class="text-info">Log In</h2>
-                    <p>masukan gamertag dan pin</p>
+                    @csrf
+                    <h2 class="text-info">LOGIN</h2>
+                    <p>Masukan Gamertag</p>
                 </div>
-                <form action="post" href="/login">
-                    <div class="form-group"><label for="email">Gamertag</label><input class="form-control item" type="email" id="email"></div>
-                    <div class="form-group"><label for="password">Pin</label><input class="form-control" type="password" id="password"></div>
+                <form action="/login" method="post">
+                    <div class="form-group"><label for="email">Gamertag</label><input class="form-control item" name="Gamertag" value="{{ old('Gamertag') }}" required autofocus></div>
                     <div class="form-group">
+                        @if ($errors->any())
+                        <div class="alert alert-danger">
+                            {{ $errors->first() }}
+                        </div>
+                        @endif
                     </div><button class="btn btn-primary btn-block" type="submit">Log In</button></form>
             </div>
         </section>
