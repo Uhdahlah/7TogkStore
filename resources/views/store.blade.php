@@ -30,7 +30,7 @@
                 </div>
                 <div class="modal-footer">
                   <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                  <a class="btn btn-primary" href="https://api.whatsapp.com/send?phone=6285700819500&text=-%3D%5B%207Togk'Store%20%5D%3D-%0A%0AShopping%20Cart%20invoice%20%3A%20%0A%0Akategori%20%3A%20*Rank*%0Apembelian%20%3A%20%60%60%60NEWBIE%60%60%60%0Aharga%20%3A%2050k%0AGamertag%20%3A%20yogey%0A%0Adimohon%20untuk%20melakukan%20pembayaran%20yang%20sesuai%20dengan%20harga%2C%20dan%20cantumkan%20bukti%20pembayaran.%20jika%20tidak%20maka%20pembelian%20ini%20tidak%20akan%20di%20proses.%0Amembeli%20%3D%20setuju%20%0A%0A*NOTE*%20%3A%20jangan%20melakukan%20spam%2Ftelfon%20karena%20mengakibatkan%20Anda%20akan%20di%20blokir%20dan%20pembelian%20otomatis%C2%A0di%C2%A0batalkan">saya mengerti</a>
+                  <a class="btn btn-primary" href="#">saya mengerti</a>
                 </div>
               </div>
             </div>
@@ -55,7 +55,7 @@
                 </div>
                 <div class="modal-footer">
                   <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                  <a class="btn btn-primary" href="https://api.whatsapp.com/send?phone=6285700819500&text=-%3D%5B%207Togk'Store%20%5D%3D-%0A%0AShopping%20Cart%20invoice%20%3A%20%0A%0Akategori%20%3A%20*Rank*%0Apembelian%20%3A%20%60%60%60VIP%60%60%60%0Aharga%20%3A%20120k%0AGamertag%20%3A%20yogey%0A%0Adimohon%20untuk%20melakukan%20pembayaran%20yang%20sesuai%20dengan%20harga%2C%20dan%20cantumkan%20bukti%20pembayaran.%20jika%20tidak%20maka%20pembelian%20ini%20tidak%20akan%20di%20proses.%0Amembeli%20%3D%20setuju%20%0A%0A*NOTE*%20%3A%20jangan%20melakukan%20spam%2Ftelfon%20karena%20mengakibatkan%20Anda%20akan%20di%20blokir%20dan%20pembelian%20otomatis%C2%A0di%C2%A0batalkan">saya mengerti</a>
+                  <a class="btn btn-primary" href="#">saya mengerti</a>
                 </div>
               </div>
             </div>
@@ -80,7 +80,7 @@
                 </div>
                 <div class="modal-footer">
                   <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                  <a class="btn btn-primary" href="https://api.whatsapp.com/send?phone=6285700819500&text=-%3D%5B%207Togk'Store%20%5D%3D-%0A%0AShopping%20Cart%20invoice%20%3A%20%0A%0Akategori%20%3A%20*Rank*%0Apembelian%20%3A%20%60%60%60VVIP%60%60%60%0Aharga%20%3A%20220k%0AGamertag%20%3A%20yogey%0A%0Adimohon%20untuk%20melakukan%20pembayaran%20yang%20sesuai%20dengan%20harga%2C%20dan%20cantumkan%20bukti%20pembayaran.%20jika%20tidak%20maka%20pembelian%20ini%20tidak%20akan%20di%20proses.%0Amembeli%20%3D%20setuju%20%0A%0A*NOTE*%20%3A%20jangan%20melakukan%20spam%2Ftelfon%20karena%20mengakibatkan%20Anda%20akan%20di%20blokir%20dan%20pembelian%20otomatis%C2%A0di%C2%A0batalkan">saya mengerti</a>
+                  <a class="btn btn-primary" href="#">saya mengerti</a>
                 </div>
               </div>
             </div>
@@ -105,7 +105,7 @@
                 </div>
                 <div class="modal-footer">
                   <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                  <a class="btn btn-primary" href="https://api.whatsapp.com/send?phone=6285700819500&text=-%3D%5B%207Togk'Store%20%5D%3D-%0A%0AShopping%20Cart%20invoice%20%3A%20%0A%0Akategori%20%3A%20*Rank*%0Apembelian%20%3A%20%60%60%60MEMBERSHIP%60%60%60%0Aharga%20%3A%2028k%0AGamertag%20%3A%20yogey%0A%0Adimohon%20untuk%20melakukan%20pembayaran%20yang%20sesuai%20dengan%20harga%2C%20dan%20cantumkan%20bukti%20pembayaran.%20jika%20tidak%20maka%20pembelian%20ini%20tidak%20akan%20di%20proses.%0Amembeli%20%3D%20setuju%20%0A%0A*NOTE*%20%3A%20jangan%20melakukan%20spam%2Ftelfon%20karena%20mengakibatkan%20Anda%20akan%20di%20blokir%20dan%20pembelian%20otomatis%C2%A0di%C2%A0batalkan">saya mengerti</a>
+                  <a class="btn btn-primary" href="#">saya mengerti</a>
                 </div>
               </div>
             </div>
