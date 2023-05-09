@@ -222,7 +222,7 @@
                             <b>Duration: <p>30 Days</p></b>
                             <b>S&K: <p>Berlaku</p></b>
                             </div><div class="price">
-                                <h4>Rp 28.000 / Month</h4>
+                                <h4>Rp 25.000 / Month</h4>
                                 <a href="#" class="btn btn-primary btn-block"  data-toggle="modal" data-target="#mbs">Buy Now</a>
                     </div>
                 </div>
@@ -244,7 +244,7 @@
                             <h4><span class="feature">S&K:&nbsp;</span><span>Berlaku</span></h4>
                         </div>
                         <div class="price">
-                            <h4>Rp 50.000</h4>
+                            <h4>Rp 35.000</h4>
                         </div><button class="btn btn-outline-primary btn-block"  data-toggle="modal" data-target="#snk1" type="button">BUY NOW</button></div>
                 </div>
                 <div class="col-md-5 col-lg-4">
@@ -260,7 +260,7 @@
                             <h4><span class="feature">S&K:&nbsp;</span><span>Berlaku</span></h4>
                         </div>
                         <div class="price">
-                            <h4>Rp 120.000</h4>
+                            <h4>Rp 75.000</h4>
                         </div><button class="btn btn-primary btn-block"  data-toggle="modal" data-target="#snk2" type="button">BUY NOW</button></div>
                 </div>
                 <div class="col-md-5 col-lg-4">
@@ -275,7 +275,7 @@
                             <h4><span class="feature"><a>S&K</a>&nbsp;</span><span>Berlaku</span></h4>
                         </div>
                         <div class="price">
-                            <h4>Rp 220.000</h4>
+                            <h4>Rp 150.000</h4>
                         </div><button class="btn btn-outline-primary btn-block" data-toggle="modal" data-target="#snk3" type="button">BUY NOW</button></div>
                 </div>
             </div>
