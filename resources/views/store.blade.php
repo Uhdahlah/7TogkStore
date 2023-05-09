@@ -218,7 +218,7 @@
                             <div class="ribbon2"><span>RECOMENDED</span></div>
                             <h3 class="card-title">[ MEMBERSHIP ]</h3>
                             <b>Unlocked: <p>Flying, Create Clans</p></b>
-                            <a class="btn btn-sm btn-outline-primary" data-toggle="modal" data-target="#fitur1">FITUR</a></br>
+                            <a class="btn btn-sm btn-outline-primary" data-toggle="modal" data-target="#fmbs">FITUR</a></br>
                             <b>Duration: <p>30 Days</p></b>
                             <b>S&K: <p>Berlaku</p></b>
                             </div><div class="price">
