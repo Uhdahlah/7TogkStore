@@ -215,7 +215,7 @@
                 <div class="card-group">
                     <div class="card">
                         <div class="card-body clean-pricing-item">
-                            <div class="ribbon2"><span>RECOMENDED</span></div>
+                            <div class="ribbon2 bg-danger"><span>RECOMENDED</span></div>
                             <h3 class="card-title">[ MEMBERSHIP ]</h3>
                             <b>Unlocked: <p>Flying, Create Clans</p></b>
                             <a class="btn btn-sm btn-outline-primary" data-toggle="modal" data-target="#fmbs">FITUR</a></br>
@@ -250,7 +250,7 @@
                 <div class="col-md-5 col-lg-4">
                     <div class="clean-pricing-item">
                         <div class="heading">
-                            <div class="ribbon2"><span>Best Ranks</span></div>
+                            <div class="ribbon2 bg-primary"><span>Best Ranks</span></div>
                             <h3>[ VIP ]</h3>
                         </div>
                         <div class="features">
@@ -279,6 +279,23 @@
                         </div><button class="btn btn-outline-primary btn-block" data-toggle="modal" data-target="#snk3" type="button">BUY NOW</button></div>
                 </div>
             </div>
+            <div class="card-group">
+              <div class="card">
+                <a class="btn btn-sm" data-toggle="modal" data-target="#fmbs">
+                  <div class="card-body clean-pricing-item">
+                      <div class="ribbon2 ribbon-fold bg-warning"><span>SULTAN</span></div>
+                      <h3 class="card-title">[ SVIP ]</h3>
+                      <b>Unlocked: <p>Custom Rank, Bypass limit server, anti_tp toggle</p></b>
+                      <b>Duration: <p>Permanent</p></b>
+                      <b>S&K: <p>Berlaku</p></b>
+                      </div>
+                    </a>
+                      <div class="price">
+                          <h4>Rp 620.000</h4>
+                          <a href="#" class="btn btn-outline-warning btn-block"  data-toggle="modal" data-target="#mbs">Buy Now</a>
+              </div>
+          </div>
+      </div>
         </div>
     </section>
 </main>
