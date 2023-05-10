@@ -110,6 +110,31 @@
               </div>
             </div>
           </div>
+          <div class="modal fade" id="svip" tabindex="-1" role="dialog" aria-labelledby="svip" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h4 class="modal-title text-info" id="exampleModalLongTitle">
+                    <p class="text-center">Syarat Dan Ketentuan SVIP</p></h4>
+                  {{-- <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button> --}}
+                </div>
+                <div class="modal-body text-center">
+                    <h4>WARNING</h4>
+                        <p><?php 
+                        $uh = "- Ranks Ada Jika Server Ada!\n - Gunakan Fitur Ranks Dengan Wajar\nDan Patuhi Aturan Server Jika Terkena Banned\nAdmin Tidak Bertanggung Jawab!\n - Jika Sudah Membeli Ranks\nTidak Ada Jaminan Uang Kembali!\n - Jika Ganti Nama/Akun = (Ranks Hangus)\n - Tidak Bisa Memindahkan Ranks\nDari Akun Ke Akun\n - Seiring Berjalannya Waktu\nFitur Ranks Bakal Berubah\n - Setiap Season Fitur Ranks\nAkan Berubah\n - SVIP dapat terkena banned\n jika menyalahi aturan\n\n§e@7TogkStore";
+
+                        echo str_replace(["\n", "§l", "§c", "§r", "§c", "§6", "§e"], ["<br/>", "", "", "", "", "", ""], $uh);
+                    ?></p>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  <a class="btn btn-primary" href="#">saya mengerti</a>
+                </div>
+              </div>
+            </div>
+          </div>
           <div class="modal fade" id="fitur1" tabindex="-1" role="dialog" aria-labelledby="fitur1" aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered" role="document">
               <div class="modal-content">
@@ -148,6 +173,30 @@
                     <h4>Fitur Rank</h4>
                         <p><?php 
                         $uh = "Wings:\n- CloudAngel\n- Davinci\n\nFitur:\n- [/gchat] Global Chat\n- [/heal] Nambah Darah\n- [/feed] Nambah Kenyang\n- [/fly] Terbang\n- [/vanish] Menghilang\n- [/setwarp] Set Pcc Tp\n- [/clanui] Buat Clan\n- [/timeset] Atur Waktu\n- [/vision] Night Vision\n\n@7TogkStore";
+
+                        echo str_replace(["\n", "§l", "§c", "§r", "§c", "§6", "§e"], ["<br/>", "", "", "", "", "", ""], $uh);
+                    ?></p>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="modal fade" id="fitur4" tabindex="-1" role="dialog" aria-labelledby="fitur4" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h4 class="modal-title text-info" id="exampleModalLongTitle">
+                    <p class="text-center">SVIP</p></h4>
+                  {{-- <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button> --}}
+                </div>
+                <div class="modal-body text-center">
+                    <h4>Fitur Rank</h4>
+                        <p><?php 
+                        $uh = "Wings:\n- CloudAngel\n- Davinci\n- Devil\n- Butterfly\n\nFitur:\n- [/gchat] Global Chat\n- [/heal] Nambah Darah\n- [/feed] Nambah Kenyang\n- [/fly] Terbang\n- [/vanish] Menghilang\n- [/setwarp] Set Pcc Tp\n- [/clanui] Buat Clan\n- [/timeset] Atur Waktu\n- [/tpto | /tpme] Teleport\n- [/nickui] Ganti Nama\n- [/sizeui] Ganti Ukuran\n- [/repair] Perbaiki Item\n- [/vision] Night Vision\n- ByPass Spam Chat\n- Teleport Toggle [ Anti Teleport ]\n- Bypass Masuk Server Saat Full\n- Teleport player To Player\n- Custom Ranks\n- ChangeRanks Dari Guest - SVIP\n\n@7TogkStore";
 
                         echo str_replace(["\n", "§l", "§c", "§r", "§c", "§6", "§e"], ["<br/>", "", "", "", "", "", ""], $uh);
                     ?></p>
@@ -281,7 +330,7 @@
             </div>
             <div class="card-group">
               <div class="card">
-                <a class="btn btn-sm" data-toggle="modal" data-target="#fmbs">
+                <a class="btn btn-sm" data-toggle="modal" data-target="#fitur4">
                   <div class="card-body clean-pricing-item">
                       <div class="ribbon2 ribbon-fold bg-warning"><span>SULTAN</span></div>
                       <h3 class="card-title">[ SVIP ]</h3>
@@ -292,7 +341,7 @@
                     </a>
                       <div class="price">
                           <h4>Rp 620.000</h4>
-                          <a href="#" class="btn btn-outline-warning btn-block"  data-toggle="modal" data-target="#mbs">Buy Now</a>
+                          <a href="#" class="btn btn-outline-warning btn-block"  data-toggle="modal" data-target="#svip">Buy Now</a>
               </div>
           </div>
       </div>
